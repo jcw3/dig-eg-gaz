@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>John White</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2016-09-19">2016-09-24</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Egyptian Gazette</title>
+                    <date when="1905-01-01">1905-05-29</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="page" n="1">
+                <head>THE EGYPTIAN GAZETTE</head>
+                <head type="sub">No. 7239] ALEXANDRIA, THURSDAY, MAY 29, 1905. [SIX PAGES P.T.
+                    1.
+                </head>
+                <div type="section" scope="advertisement">
+                </div>
+            </div>
+            <div type="page" n="2"> </div>
+            <div type="page" n="3"> </div>
+            <div>THE EGYPTIAN GAZETTE, MONDAY, MAY 29, 1905.</div>
+
+            <div type="war">
+              <head>12 WARSHIPS SUNK OR CAPTURED</p>
+
+            <p>TOKIO, May 29.</p>
+
+            <p>(Official). Admiral Rodjestvensky's fleet is practically
+            annihilated. 12 warships have been sunk or captured,
+            2 transports or destroyers sunk. (Reuter.)</p>
+
+            <p>TOKIO, May 27.</p>
+
+            <p>It is reported that Admiral Rodjestvensky is off Tsu-Shima Island
+            and that Admiral Togo has begun an engagement. (Reuter.)</p>
+
+            <p>LONDON, May 27.</p>
+
+            <p>The "Standard" learns from Shanghai that the Russian cruisers "Rion" and
+            "Smolensk" convoyed the steamers of the volunteer fleet to Wusang.
+            The officers declare that the Baltic fleet is in good fighting trim
+            and that the stories of Admiral Rodjestvensky's illness are
+            grotesque exaggerations.</p>
+
+            <p>The Taotai has protested at the Russian Consulate against the
+            presence of the Volunteer steamers and asked them to leave within 24 hours.
+            (Reuter).</p>
+
+            <p>LONDON, May 27.</p>
+            <p>Reuter's Agency learns from Shanghai that the Baltic Fleet left the
+            Saddle Islands yesterday evening. (Reuter.)</p>
+
+            <p>TOKIO, May 27.</p>
+            <p>Apart from the fact that Admiral Rodjestvensky's
+            main fleet appeared in the Straits of Tsu-Shima, steaming in two columns,
+             with the battleships starboard, and the gunboats and cruisers port,
+             all information of to-day's historic events is either withheld or
+             transmission refused. (Reuter.)</p>
+
+            <p>TOKIO, May 27.</p>
+            <p>Admiral Rodjestvensky's main fleet appeared in the Tsu-Shima
+              Strait. It was navigating in two columns. All other details are withheld.
+            (Havas.)</p>
+
+            <p>WASHINGTON, May 28.</p>
+            <p>The American Consul at Nagasaki telegraphs that the
+            Japanese have sunk a Russian ironclad, four other warships, and a
+            repair-ship. (Havas.)</p>
+
+            <p>CHIFU, May 20.</p>
+            <p>A big battle is taking place in the Korea Straits near Oshuma.
+              (Havas.)</p>
+
+            <p>TOKIO, May 28.</p>
+            <p>The publication of naval news continues to be prohibited,
+            but it is reported that four Russian warships passed the Kurile Straits
+            westward on the 25th inst. It is surmised that they were
+            Admiral Rodjestvensky's light cruisers. (Reuter.)</p>
+
+            <p>SHANGHAI, May 28.</p>
+            <p>Five Russian battleships, three cruisers, and seven destroyers were sighted
+            off Tsu-Shima Island yesterday evening. (Reuter.)</p>
+
+            <p>CHIFU, May 28.</p>
+            <p>The Japanese Consulate has received private advices that a
+            large part of the Baltic Fleet was engaged by the Japanese squadron
+            in the Korean Straits yesterday evening. (Reuter.)</p>
+
+            <p>WASHINGTON, May 28.</p>
+            <p>The American Consul at Nagasaki telegraphs that the Japanese
+            sank one Russian battleship, four other warships, and a repair ship
+            in the Straits of Korea. (Reuter.)</p>
+
+            <p>TOKIO, May 28.</p>
+            <p>A fog prevailed which lifted occasionally when the Baltic squadron
+            was sighted on Saturday. There was a high wind and a rough sea.
+            (Reuter.)</p>
+
+            <p>LONDON, May 23.</p>
+            <p>Reuter's Agency learns from Tsing-tau that a running fight is going
+            on near Okoshima. All the ships of the Baltic squadron which are not
+            engaged and the slower vessels are steaming towards Japan.
+            (Reuter). </p>
+          </div type "item">
+
+            <div type "cricket">
+            <head> CRICKET </head>
+
+            <p>LONDON, May 27.</p>
+            <p>Middlesex beat Sussex by 324 runs. Australians beat Lancashire by
+            244 runs. Surrey beat Hampshire by 7 wickets. Leicestershire beat
+            Essex by an innings and 105 runs. Worcestershire beat Oxford
+            University by 211 runs. The matches between Warwickshire and Yorkshire,
+             and Gloucestershire and Cambridge University were drawn.
+             (Reuter.)</p>
+           </div type "cricket">
+
+
+
+            <div type "localandgeneral">
+              <head>LOCAL AND GENERAL</head>
+
+            <p>Epidemics of small-pox have broken out at Besindila and Sherbin villages,
+            in the Sherbin district.</p>
+
+            <p>STRAY AND OWNERLESS DOGS found in the Choubra district at daylight to-morrow
+             will be poisoned by the police.</p>
+
+            <p>GABARI GRAVING DOCK- The Khedivial Company's S.S. "Munich" entered the Gabari
+            graving dock this morning. This is the first ship to make use of the dock
+            since it was built.</p>
+
+            <p>SUEZ CANAL- On the 25th inst. 9 vessels passed through the Canal,
+             of which 8 were British, 1 Turkish. The receipts for the day were
+             frs. 261,670.88, making the total from 1st inst. 7,717,467.90.</p>
+
+            <p>THE TALE OF A GREEK PRIEST who refused to christen a child because its
+            father wanted it to be named 'Togo' hails from Trebizond.
+            A compromise, we understand, was arrived by calling the infant 'Alexandros
+            Togo,'</p>
+
+            <p>HOTEL BEAU RIVAGE- The first ball of the season at this hotel will be held
+            on Thursday next, when special trams will run up to 1:30 a.m. Dancing will
+            commence at 10 p.m., the music being supplied by the band of the R. Berks
+            Regiment. A small dance is to be given at the hotel every following Thursday
+            evening during the season.</p>
+
+            <p>JEUNES ECONOMES DES PAUVRES- We are requested by Mlle Claire Ricard,
+            president of the 'Ouevre des Jennes Economes des Pauvres,' to state that the
+            annual lottery in aid of the work will be held on Saturday next, 3rd proxo.,
+            at 11 a.m., in Chalon�s establishment, Cherif Pasha street, in one of the
+            windows of which the prizes are being shown.</p>
+
+            <p>ARMY OF OCCUPATION- The following are the names of the officers, N.C.O.
+            and private who were successful at the examination in Arabic held at Cairo
+            in March, with the number of marks awarded:--Major E.R.O. Ludlow, Staff,
+            375; Major R.N. Gamble, D.S.O., 2nd Bn. Roal Berks. Regt., 397; Sergt A.
+            Schembri, R.M.A. 455; Private G. Ditchburn, A.S.C. 390. The maximum number
+            of marks obtainable was 500.</p>
+
+            <p>THE CAIRO CITY FIRE BRIGADE, under the command of Captain Blake,
+            was called out on Saturday morning to a small outbreak of fire which
+            occurred at a shop in the Haret el dik, at the corner of Sharia el
+            Kamel, but on their arrival it was found that their services were not
+            required. The fire was caused by a cigarette end being thrown on a
+            mattress, but very little damage beyond the destruction of the mattress
+            was done. This is the 115th time the fire-brigade has been called out
+            during the present year.</p>
+
+            <p>COLLEGE OF ST. FRANCOIS XAVIER- The fete of the father superior of
+            this college was held on Saturday and yesterday. On the former day an
+            exhibition of limelight views and cinematograph pictures took place
+            before a large audience, the screen being placed in the centre of the
+            building in which the entertainment took place; in front of it the visitors
+            were seated and behind it the boys of the college. A number of views
+            illustrative of a pilgrimage from Jaffa to Jerusalem were first shown, and
+            the applause with which many were greeted showed that the various groups
+            contained the figures of many who were recognized by the audience. These
+            were followed by some excellent cinematograph scenes, representing incidents
+            in the life of Christ, from the entry into Jerusalem to the Crucifixion and
+            entombment, the series closing with the "Apotheosis of Jesus."
+            Scenes of general interest followed; incidents of a house on fire,
+            arrival of the fire-engines, rescue of occupants, etc., being vividly
+            portrayed, the assassination of the Grand Duke Sergius ; one or two
+            charming fairy tableaux, and finally a Cavalry review by the French President.
+            At the close of the exhibition a presentation of flowers was made to the
+            father superior, who acknowledged the gift in a
+            speech of some length.</p>
+          </div type "localandgeneral">
+
+        <div type "ad1">
+            <p>ANGLO-AMERICAN NILE STEAMER
+            HOTEL COMPANY
+            RIVER TRANSPORT OF GOODS BETWEEN ALEXANDRIA AND CAIRO
+            Three Sallings a-Week
+            Agents at Alexandra:---
+            ALEXANDRA BONDED WAREHOUSE CO. LD.</p>
+
+            <p>BECK & CO'S PILSENER BEER
+            BREMEN
+            FEARS NO HONEST COMPETITION FOR QUALITY.
+            N.B.--Inferior brands now being offered to Manager of certain good (?)
+            Beware of evilly disposed competitors running down this very (?)
+            BRAND OF BEER</p>
+            </div type "ad1">
+
+
+          <div type "biglocalcombine">
+            <head>BIG LOCAL COMBINE</head>
+
+            <p>The Associated Cottonginners of Egypt</p>
+
+            <p>A great combine of the cotton ginners of Egypt has lately been formed.
+            We give below particulars of the company, which is entitled the Associated
+            Cotton Ginners of Egypt, Limited. All the great ginners in Egypt have joined
+            the combine, and it promises to be one of the most powerful industrial
+            organizations in the country.</p>
+            <p>The whole concern was valued at double the capital as given below.
+            Subsequently it was decided to reduce the estimate on which this was based by
+            one half, each factory being paid by an equivalent in shares. The Egyptian
+            Investment and Agency, Limited, intend offering 75,000 one-pound shares at a
+            premium of one-pound to their shareholders and friends.</p>
+            <p>There are other ginning factories taken over besides those mentioned below,
+            which are only the chief concerns. Nearly all the banks are interested in the
+            company, which is destined to occupy as high a position in ginning as the
+            Societe de Pressage et des Depets does in pressing. There will probably be a
+            limited public subscription in about ten days' time.</p>
+            <p>This combine will be of great advantage in regard to the financial
+            equilibrium of industrial Egypt. Often the position of up-country ginners with
+            little capital has caused a good deal of nervousness to the banks, but all
+            this anxiety will be obviated by the combine, which will develop so as the
+            course of time to gin in all the centres, and will have a virtual monopoly
+            of this business throughout Egypt.</p>
+            <p>The following are the details of the registration :
+            Associated Cotton Ginners of Egypt, Limited. - Registered May 17th, by
+            Worthington, Evans and Co., 27, Nicholas Lane, E.C. Capital, 360,000 pounds
+            in 1 pound shares. Objects: To amalgamate, continue and develop the cotton
+            ginning factories, presses, and accessories and the business connected
+            therewith owned in Lower Egypt (1) by Messrs. Choremi, Benachi, and Co ;
+            (2) by Messrs. C.M. Salvago and Co. ; (3) by Messrs. C.G. Zervudachi and Sons
+            ; (4)by Messrs. J. Planta and Co. ; (5) by Messrs. Carver Bros. and Company,
+            Limited ; (6)by Messrs V. and C. Bacos, and (7) by Le Societe de d'Egrenage
+            de Zagazig; with a view thereto to enter into an agreement with the Egyptian
+            Investment and Agency, Limited, and to carry on the business of
+            cotton ginners and pressers, and any other business incidental or
+            auxiliary thereto. The signatories are--</p>
+                                                                <p>Shares.</p>
+            <p>E.D. Carver, 24, St. Mary Axe, E.C., merchant. 1
+            R.C. Abdy, Alexandria, merchant. 500
+            W.C. Mackenzie, 24, St. Mary Axe, E.C., managing clerk. 1
+            W. Leigh-Hunt,5-6, Billiter Avenue, E.C., merchant. 1
+            H.O. King, 50 and 1, Lime Street, E.C., secretary. 1
+            E.F. Trone, 5-6, Billiter Avenue, E.C., accountant. 1
+            J.M. Farrington, The Moat, Penshurst, Kent, secretary. 1
+            W.G. Hatchet, "Kadina,"" Chadwell Heath, clerk. 1</p>
+
+            <p>No initial public issue. The number of directors is not to be
+            less than five nor more than ten. The first are E.A. Benachi,
+            C. de Tschudi, S. Carver, C. Bacos, R.C. Abdy, and M. Sinadino.
+            Qualification, 500 shares. Remuneration, 10 per cent of the net profits
+            remaining in each year after paying 6 per cent, dividend on the Ordinary
+            shares and placing 10 per cent of the profits to reserve fund until such
+            fund shall equal 25 per cent of the Ordinary share capital. Registered
+            office 5 and 6, Billiter avenue, E.C.</p>
+
+              </div type "biglocalcombine">
+
+            <div type "column3">
+              <head>CREDIT FONCIER EGYPTIEN.</head>
+
+            <p>The forthcoming debenture issue to the extent of
+            6,600,000 pounds by the Credit Foncier Egyptien will bear interest at
+            the rate of three per cent. The guaranteeing syndicate for the debenture
+            issue has now been formed, and the scheme for taking over the Dairs Sanieh
+            Company, on the conditions given in our issue of Saturday last, will be
+            submitted to the approval of the sreholders of the Credit Foncier Egyptien
+            at the extraordinary general meeting to be held in Cairo on Saturday, the
+            8th July.</p>
+
+            <head>DOG REGULATIONS.</head>
+            <p>The regulations drawn up by the Alexandria Municipality for the registration
+            of dogs are published in yesterday's "Journal Official" and come into force
+            one month after date of publication. All owners of dogs must make a declaration
+            to the Municipality within fifteen days stating where they live and the number
+            of dogs in their possession. Every dog registered will receive a number
+            corresponding with the name of the possessor, which will be entered in a
+            register for the purpose. All dogs must carry a metallic plaque bearing a
+            number. These plaques will be supplied free by the Municipality, or the owner
+            may have his own plaque made in accordance with the Municipality's model. Dogs
+            found is the public streets without the regulation plaque on their collar will
+            be seized and if thought necessary by the Municipal 'Vet' destroyed
+            immediately; otherwise they will be held at the disposal of the owner for five
+            days and then destroyed if not claimed. If claimed the owner will have to pay
+            at the rate of P.T. 4 per day for the animal's keep.</p>
+
+            <p>WINDSOR HOTEL
+            Largest 1st class and most comfortable Hotel in Alexandria.
+            Facing the son Central position. Under English management.</p>
+
+
+            <head>THE KHEDIVE</head>
+
+            <p>ARRIVED AT CONSTANTINOPLE</p>
+
+            <p>The Khedive arrived at Constantinople at 9 a.m. yesterday and was afterwards
+            received in audience by the Sultan at Yildis Kiosque.</p>
+            <p>The following is the text of the Khedive's rescript addressed to Mustapha
+            Pasha Fehmy, President of the Council of Ministers, entrusting the Regency to
+            that Minister and afterwards to Fakhry Pasha :--</p>
+            <p>Ayant resolu; avec la grace de Dieu, de partir pour l'Etranger,
+            Nous vous designons pour exercer la Regence, pendant Notre absence,
+            et diriger les affaires de Notre Gouvernement au sujet desquelles vous
+            dorinerez les ordres qui vons seront dictes par votre sagasse et votre
+            parfaite experience.</p>
+            <p>Apres votre depart, Hussein Fakhry pacha, Ministre des Travaux publics
+            et de l'Instruction publique, dirigers, pendant votre absence, conjointement
+            avec ses collegues les Ministres restant en Egypte, less Affaires de notre
+            Gouvernement en Egypte, les Afaires de notre Gouvernement et revetirs de sa
+            signature les ordres motives par leurs deliberations.</p>
+            <p>Nous vous adressons, en consequence, le present Rescrit pour lui donner la
+            suite qu'il comporte.</p>
+            <p>ABBAS HILMI.</p>
+
+
+
+            <head>EGYPTIAN ARMY<head/>
+            <p>Captain J.P.V. Hawkeley, Royal Artillery, having reported his arrival in
+            Egypt from England, is taken on the strength of the Egyptian Army from 5th
+            May, 1950, with the rank of Bimbashi. Captain Hawkeley is posted to the
+            Artillery.</p>
+            <p>El Bimbashi Hon. C. James, Assistant Financial Secretary, is struck off
+            the strength of the Egyptian Army from 6th May, 1905.</p>
+            <p>El Bimbashi H.F.E. Lewin, Artillery, is appointed Assistant Financial
+            Secretary.</p>
+            <p>Three months' leave has been granted to El Kaimakam Hawker Bey, officer
+            commanding Camel Corps, Khartoum.</p>
+            <p>Four months' leave of absence has been granted to El Bimbashi Hon.
+            W.A. Trefusis, Aide-de-Camp to HE.the Sirdar.</p>
+            <p>El Kaimakam Stockwell Bey, officer commanding 3rd Battalion, left
+            Khartoum on the 15th May and will resume his duties on the
+            14th August.</p>
+            <p>El Bimbashi Bethell, Artillery, Khartoum, has been scored three
+            months' leave.</p>
+
+            <head>DEATH OF MRS. BALBI.</head>
+            <p>We deeply regret to announce the death of Mrs. Eileen Balbi, the wife of Major
+            H.A. Balbi, R.M.A., who died at Malta on Saturday week (20th May) after a
+            brief illness. The funeral, which was strictly private, took place yesterday
+            week. Mrs. Balbi was the daughter of Fleet Surgeon McDermott, R.N. She had
+            only left Alexandria with the Royal Malta Artillery, which her husband
+            commanded, a few weeks ago, and during her residence in Egypt had made a
+            large number of friends, to whom the sad news of her untimely end will come
+            as a great shock, as the deceased left Egypt in apparently the best of
+            health. The following sympathetic notice is extracted from the
+            "Malta Chronicle":--</p>
+            <p>"The death of Mrs. Balbi has brought a heavy weight of grief, not only upon
+            Mrs. Balbi, but upon a large number of the inhabitants of Malta, to whom the
+            deceased lady was well-known and by whom she was greatly respected.</p>
+            <p>"In Egypt too many will learn with astonishment and sorrow that Mrs. Balbi,
+            who had helped to make the long days in a foreign land pass with less weariness
+            to the English and Maltan community there, and who lent herself willingly to
+            the forwarding of good works of a permanent nature, is no more.</p>
+            <p>"It is yet but a short time since Major and Mrs. Balbi returned to Malta
+            along with the contingent of the R.M.A. which had done duty there. There was
+            nothing to cause the fear that her days would so quickly end. Still there is
+            gloom now where her presence brought brightness!</p>
+            <p>"The recentness of the deceased lady's return to this island, her
+            comparative youth, the shortness of her illness, have all combined to
+            impress her friends and acquaintances, and to awake a deep sympathy with
+            those who now most mourn her loss."</p>
+
+            <head>STEAMER MOVEMENTS</head>
+            <p>The Messageries Maritimes S.S. "Equateur,"" from Marseilles, passed the Straits
+            of Messina on Saturday at noon and is due here tomorrow.</p>
+            <p>The S.S. "City of Oxford" left on Saturday for Malta and Liverpool.</p>
+
+            <head>ESBEKIEH GARDENS.</head>
+            <p>By kind permission of Col. C.J. Markham and officers, the band of the 1st
+            Batt. King's Royal Rifles will perform the following programme of music
+            at the Esbekieh Gardens tomorrow (Tuesday), commencing at 9 p.m.
+            Marcia Espagnola- Sangro Torera- Ervitl
+            Overture- a Sirene- Auber
+            Three Dances Nell Gwyn German
+            Cornet Solo- ie Post- chaffer (Musician S. Tyler)
+            Intermezzo. Revue du Bal. Olbulks
+            Selection- The Oingaleo- Monckton.
+            Valeo- Waner Mad'loe- Ziever
+            Descriptive March- Osk- Osk- Thurban.
+                (A Darktown Donkey race)
+                    Regimental March.
+                    Khedivial Anthem
+                    God Save the King
+                        THOMAS BROWS, Bandmaster.</p>
+
+            <head>CARLTON HOTEL</head>
+            <p>Bulkeley, Ramleh.</p>
+            <p>Ten minutes from Alexandria. First-Class in every respect. Very moderate
+            charges. Bulkeley is the fashionable English quarter. Visitors from Cairo
+            alight in Bidi Gaber Sation.</p>
+
+</div type "column3">
+            <div type "column4">
+              <head>NILE NAVIGATION</head>
+
+            <p>NEW COMPANY FORMED</p>
+
+            <p>The possibilities of the development of Nile navigation are immense, and there
+            appears to be a good opening for the new Bus-Bost Company
+            (Compagnie des Bateaux-Omnibus) which has just been founded. The objects of the
+            new company are the transport of persons, goods, cattle, etc., by waterway in
+            Egypt and all other enterprises subsidiary thereto. The company declares that
+            it recognizes retrospectively the concession granted to Messrs. Ad. Cattaui and
+            Co. by the Egyptian Government for the construction of pontoons on the two
+            banks of the Nile between Old Cairo and Rod el-Farag, and of the
+            conventions made by the same firm with Messrs. Thos. Cook and Son (Egypt),
+            Limited, and the Anglo-American Nile Steamers and Hotel Company, Limited.
+            The capital is L.E. 10,000 in 2,500 shares of L.E. 4 each. It has already
+            been subscribed and the following persons have taken up the undermentioned
+            amount of shares.</p>
+
+            <p>Messrs. Ad. Cattani and Co., 1800, Ad. Cattaui, 100, Gustave Cattaui, 100,
+            Alfred de Menasoe, 100, Dario Finzi, 100, Pani Oziol, 100, Robert S. Rolo, 100,
+            Andre Suares, 100. These gentlemen will form the board of directors.</p>
+
+            <head>A PROSPEROUS COMPANY.</head>
+
+            <p>To-morrow the annual general meeting of the Anglo-American Nile Steamers and
+            Hotels Company will be held at Cairo, when a very satisfactory statement of
+            this company�s progress will be placed before the shareholders. We understand
+            that 35,000 pound six per cent debentures are to be redeemed, and besides a
+            dividend of eight per cent will be given, making a total of nine per cent.
+            The company has been so successful this year that all the preliminary
+            expenses, which amounted to nearly 3000 pounds, are to be written of,
+            and 10000 pounds will be placed to the reserve, bringing the reserve
+            fund up to about 12,000, and leaving about 2700 pounds to be carried forward
+            to the profit and loss account for next year.</p>
+
+            <head>THE SUEZ CANAL COMPANY.</head>
+
+            <p>At the meeting of the council of the Suez Canal Company held on the 22nd inst.,
+            the dividend on the ordinary shares for the year 1904 was fixed at 141fr.
+            (5 pounds 12s. 9d.) net, free of taxes, equivalent to a little more than 28
+            per cent on the 500 fr. shares. Mr. T.W. Hughes, the managing director of
+            the Harrison Line, of Liverpool, was at the same time nominated as a British
+            administrator in the place of Mr. J.B. Westray, who has resigned.
+            It is believed that the transit dues will be reduced from 8fr.50c. To 7fr.75c
+            from January 1 next, in consequence of the increase in the receipts.
+            The dividends for 1904 to be distributed by the company include the
+            following:--O shares "de jouissance,"" fr. 117.447:, and on founder's shares,
+            fr. 66.57, both net.</p>
+
+            <head>THE LOCUST VISITATION</head>
+
+            <p>Mr. Machell left Cairo last Thursday and proceeded to Maghagha,
+            where the larger flights of locusts have been observed, in order to
+            personally inspect this part of the country and to find out if any damage
+            had been done, and to what extent the locusts had laid eggs. He found, however,
+            that although a considerable number of locusts had slighted in these spots,
+            they had almost entirely disappeared, and that very few eggs had been laid.
+            Owing to the prevalence of N. to N.E. winds there is very little fear of a
+            recurrence of the plague from which the country suffered last year.</p>
+
+            <head>THE PLAGUE</head
+
+            <p>Eight cases of plague have been notified in Egypt since the 21st inst.,
+            viz, 2 at Mi-Ghamr, 3 at Menouf, 2 at Port Said, and 1 at Alexandria.
+            One death from Plague was reported esterday from Damanhour and also 1
+            from Menouf. There are now eight cases under treatment.</p>
+
+            <head>SUSPECTED PLAGUE ON SHIP</head>
+
+            <p>The English steamer "Van Colquhoum,"" which left Bombay on the 12th inst.,
+            arrived at Suez on Friday last with a case of suspected plague aboard.
+            Dr. Vay stated that on examination he found that the patient was suffering
+            from a bubo in the left femoral region. There was no doctor on board the
+            vessel but the capital informed Dr. Vay that the patient, who is an Indian,
+            fell ill four days after leaving Bombay and that for three days his
+            temperature was 40 to 40.5 Centigrade, after which he gradually improved,
+            and his condition is now satisfactory. After disinfection the vessel was
+            allowed to proceed through the canal in quarantine.</p>
+
+            <head>CATTLE PLAGUE</head>
+
+            <p>During the week ending 27th inst., three deaths from cattle plague were
+            notified, vis., 2 at Hehis, province of Charkieh, and 1 at Ghizeh.
+            The number of deaths during the corresponding period last year was 5,43.
+            Between the 21st and 27th May 1,156 animals were inoculated.
+            Since the commencement of the epidemic the total number of deaths amounts
+            to 147, 212, distributed as follows:- Gouvernorate 892, Lower Egypt
+            54,089, Upper Egypt 92,381.</p>
+            <div type "column4">
+            <head>PERSONAL AND SOCIAL.</head>
+
+            <p>Lord and Lady Cromer will leave for England on the 12th or 13th of June
+            by the Bibby Line S.S. "Lancashire.""</p>
+
+            <p>H.E. the Sirdar will arrive in Cairo on the 2nd June and will
+            leave for England on the 10th of that month.</p>
+
+            <p>Mr. C. K. Rudd is improving Kilchoan Lodge, on his Ardnamurchan
+            estate, in Argyllshire, as an autumn residence for his son-in-law and
+            daughter, Sir Kidon and Lady Gorst. Mr. Rudd, since he bought the estate,
+            has improved it at great expense, and has built a palatial residence,
+            probably the finest erected in Scotland since Mount Stuart.</p>
+
+            <p>Dr. Douglas Dunlop, Secretary-general of the Ministry of Public
+            Instruction, is leaving for Scotland this week.</p>
+
+            <p>Major R.H. Penton, D.SO., R.A.M.C., having vacated his appointment as
+            P.M.O. of the Egyptian Arm, has returned to duty under the War Office,
+            and has been posted to Portsmouth.</p>
+
+            <p>Mr. Perry, Chief Inspector of Towns and Buildings, will leave for
+            England on June 3.</p>
+
+            <p>H.H. the Khedive, before leaving for Europe, was graciously pleased
+            to confer the grade of Moutemaiz (Bey) upon Mr. Augusto Luesato,
+            general manager of the Bank of Egypt.</p>
+
+            <p>The marriage of Mlle Victoria S. Naggiar to M. Alexander N. Dahan
+            took place on Saturday last at the Carlton Hotel, Bulkeley, which is
+            admirably adapted for such a circumstance. There were 150 guests present,
+            and after the nuptial benediction had been given a movie was made to a
+            sumptuous buffet which ad been prepared and which reflected the greatest
+            credit on the hotel management.</p>
+
+            <head>Calendar of Coming Events</head>
+
+            <p>ALEXANDRIA</p>
+
+            <p>May.
+            Mon. 29: Windsor Hotel, Orchestra, 6 to 11 p.m. Alhambra,
+            Italian operetta company in Boccaccio. 9.p.m.
+            Tues. 30. A.C.C. ground. E.T.G. v Mr. Dawson�s XI. 2 p.m.
+            Wed. 31. Khedivial Yacht Club. Regatta.
+            June
+            Thurs. 1. Hotel Beau Rivage. First Ball of season. 10 p.m.
+            Sat. 3 "Trotter Egyptian."" Horse Show. 9:30 a.m.
+            Sun. 24. San Stefano Casino. Concert 10 a.m. Gabbari. Pigeon Shooting.
+            2:30 p.m </p>
+
+            <p>CAIRO</p>
+
+            <p>May
+            Mon. 29: Theatre des Ambassadeurs. 9 p.m. Theatre des Nouvesutes. 9 p.m.
+            Verdi Theatre. 9 p.m.
+            Tues 30. Esbekiah Gardens. Performance by British Military Band. 9 to 11 p.m.
+            June
+            Fri 2. Zoological Gardens. Performance by Ghizeh Boys' Band in afternoon.
+            Esbekiah Gardens. Performance by British Military Band. 9 to 11 p.m.
+            July
+            Sat. 8 Credi Foncier Egyptien Extraordinary General Meeting.
+            4 p.m.</p>
+          </div type "column4">
+          <div type "ad2">
+            <head>CAUTION
+            PETER KOHLER AND NESTLE'S CHOCOLATES.</head>
+
+            <p>MESSRS. HENRI NESTLE having heard that Mr. J. Vivante has
+            been calling on certain houses and representing himself as their
+            agent and traveller, they hereby inform all merchants and traders that
+            this gentleman has no authority to represent them or use of their names,
+            and that the sole agents for the sale of the Chocolates of Messrs. Peter
+            Kohler and Nestle is Mr. A. R. GIRO, Alexandria and Cairo.</p>
+
+            <head>AVIS
+
+            CHOCOLATS PETER-KOHLER et NESTLE</head>
+
+            <p>LONDRES-VEVEY-SUISSE</p>
+
+            <p>M. Henri Nestle ayant ete informe que M. J. Vivante a'est presente a
+            diverses maisons de commerce en son nom comme agent voyageur, il a l'honneur
+            d'informer le public que ce Monsieur n'a rien de commun avec as
+            maison ni droit ou titre a cette pretention.</p>
+            <p>L'agent General pour l'Egypte est M.A. GIRO.</p>
+            <p>Alexandrie et le Caire.</p>
+
+            <p>TYROL. Weissenstein Castle 361 ft. First-class private hotel near
+            Winisch-Matrei; Station, (reached from Venice or Trieste). Good mountaineering
+            centre. Tennis. Fishing, hunt June and September. Pro-and Photographs,
+            "Egyptian Gazette" office, Cairo.</p>
+
+            <div type="page" n="4"> </div>
+            <div type="page" n="5"> </div>
+            <div type="page" n="6"> </div>
+        </body>
+    </text>
+</TEI>
